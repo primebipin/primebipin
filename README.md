@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=primebipin" alt="primebipin" /></a> </p>
 
-- 🌱 I’m currently learning **c,c++,HTML**
+- 🌱 I’m currently learning **c,c++,DSA,HTML,CSS,JS,React**
 
 - 📫 How to reach me **9431814473**
 
